@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @R0J4S-L4UR1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Mi Perfil</h1>
+<h2 align="center"> Laureano Rojas Castañeda</h2>
 
-<!---
-R0J4S-L4UR1/R0J4S-L4UR1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Actualmente estoy especializandome en Ciberseguridad y Hacking Ético.
+    # Mis habilidades:
+      - SysAdmin Linux
+      - Redes
+      - Pentesting wi-fi
+      - Hacking Web
+- Tambien soy desarrollador de software.
+    # Mis habilidades:
+      - JavaScript(React)
+      - Python
+      - Bash
+      - Java
+      - PHP
+      - HTML, CSS
+      - Bases de Datos
+- Otros:
+    # Idiomas:
+      - Inglés nivel Intermedio
+      - Español completo
+      - Frances nivel Básico
+  
