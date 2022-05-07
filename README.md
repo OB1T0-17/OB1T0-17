@@ -8,20 +8,19 @@
   <br/>
   
 <p align="center">
-    <img src="https://gpvc.arturio.dev/DeepSociety" alt="profile views"> 
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/DeepSociety?label=Followers&style=social"> 
-    <img src="https://img.shields.io/github/stars/DeepSociety?label=Stars" alt="Total Stars">
+  <h3>My Networks:</h3>
 </p>
   <br>
-  <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/bb8b0ba3462bc0760a496709cf2b5d730c4288d9/hacker-man-hacker.gif" alt="hacker-man">
-  <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/4c5696632ef2130eac1cd14b0b3f3e82b9302f1e/coding.gif" alt="coding">
+  <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/bb8b0ba3462bc0760a496709cf2b5d730c4288d9/hacker-man-hacker.gif?raw=true" alt="hacker-man">
+  <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/4c5696632ef2130eac1cd14b0b3f3e82b9302f1e/coding.gif?raw=true" alt="coding">
     <h2>I am a man apasionad for the ethical hacking and the Programing</h2>
     <h3> Front-End </h3>
      <img src="https://github.com/OB1T0-17/OB1T0-17/blob/ada59bf27e02380ca09b2af7a05f4f271505a5d2/front.png?raw=true" alt="front">
     <h4> Frameworks</h4>
-    <img src="https://github.com/OB1T0-17/OB1T0-17/blob/e554ddb2b8374452dfc0fb3bf7cd80007f892ef0/frameworks.png?ese=true" alt="frame">
+    <img src="https://github.com/OB1T0-17/OB1T0-17/blob/e554ddb2b8374452dfc0fb3bf7cd80007f892ef0/frameworks.png?raw=true" alt="frame">
     <h3> Back-end </h3>
     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/238dd62a0623b5363d81db7dd0342da3f8104e73/backend.png?raw=true" alt="back"
+
   <h2>Github Stats : </h2>
 
   <br>
