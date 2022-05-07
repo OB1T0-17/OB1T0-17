@@ -15,7 +15,8 @@
   <br>
   <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/bb8b0ba3462bc0760a496709cf2b5d730c4288d9/hacker-man-hacker.gif" alt="">
     <h2>I am a man apasionad for the ethical hacking and the Programing</h2>
-     <img src="https://github.com/DeepSociety/DeepSociety/blob/main/skills.jpg?raw=true" alt="">
+    <h3> Front-End </h3>
+     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/2e616b38614300286555e859eb6b9f11bfca06d5/front-end.png?raw=true" alt="">
   
   <h2>Github Stats : </h2>
 
