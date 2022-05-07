@@ -18,10 +18,8 @@
     <h2>I am a man apasionad for the ethical hacking and the Programing</h2>
     <h3> Front-End </h3>
      <img src="https://github.com/OB1T0-17/OB1T0-17/blob/ada59bf27e02380ca09b2af7a05f4f271505a5d2/front.png?raw=true" alt="front">
-     
-    </br>
     <h4> Frameworks</h4>
-    <img src="
+    <img src="https://github.com/OB1T0-17/OB1T0-17/blob/e554ddb2b8374452dfc0fb3bf7cd80007f892ef0/frameworks.png?ese=true" alt="frame">
   <h2>Github Stats : </h2>
 
   <br>
