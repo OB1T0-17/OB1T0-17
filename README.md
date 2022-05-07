@@ -17,8 +17,11 @@
   <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/4c5696632ef2130eac1cd14b0b3f3e82b9302f1e/coding.gif" alt="coding">
     <h2>I am a man apasionad for the ethical hacking and the Programing</h2>
     <h3> Front-End </h3>
-     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/2e616b38614300286555e859eb6b9f11bfca06d5/front-end.png?raw=true" alt="">
-  
+     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/ada59bf27e02380ca09b2af7a05f4f271505a5d2/front.png?raw=true" alt="front">
+     
+    </br>
+    <h4> Frameworks</h4>
+    <img src="
   <h2>Github Stats : </h2>
 
   <br>
