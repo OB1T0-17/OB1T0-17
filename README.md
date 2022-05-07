@@ -1,7 +1,4 @@
-<head>
-<link href="css/style.css" rel="stylesheet">
-</head>
-<body>
+
 <div align="center">
 <h1>
     Hello, Welcome to my profile !
@@ -47,5 +44,3 @@
         <h2>Follow me and like my repositories for more</h2>
         <img src="https://github.com/DeepSociety/DeepSociety/blob/main/thanks.gif?raw=true" alt="">
 </div>
-
-</body>
