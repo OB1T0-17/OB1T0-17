@@ -8,7 +8,7 @@
   </h1>
     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/1b83f61f9448d0851891cd6c84b246f60b3917d5/img/facebook.png" width=30vw height=30vh>
      <img src="https://github.com/OB1T0-17/OB1T0-17/blob/569f9bee4ab25b50a580b1e9ce6abb540a5aba0a/img/instagram.png" width=30vw height=30vh>
-     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/1b83f61f9448d0851891cd6c84b246f60b3917d5/img/facebook.png" width=30vw height=30vh>
+     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/bae82498d224c82b4b8ce4a77f59451c159517e8/img/linkedin.png" width=30vw height=30vh>
      <img src="https://github.com/OB1T0-17/OB1T0-17/blob/1b83f61f9448d0851891cd6c84b246f60b3917d5/img/facebook.png" width=30vw height=30vh>
   <br/>
   <br>
