@@ -6,10 +6,15 @@
       <img src="https://github.com/DeepSociety/DeepSociety/blob/main/hi.gif?raw=true" width="40">
     </a>
   </h1>
-     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/569f9bee4ab25b50a580b1e9ce6abb540a5aba0a/img/instagram.png" width=30vw height=30vh>
-     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/bae82498d224c82b4b8ce4a77f59451c159517e8/img/linkedin.png" width=30vw height=30vh>
-     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/3b553fccfdfc425df60bea7459f21e04493847f8/img/youtube.png" width=50vw height=30vh>
-  <br/>
+
+
+[![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://twitter.com/intent/follow?screen_name=charly3pins)
+![Whatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+    <br/>
   <br>
   <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/bb8b0ba3462bc0760a496709cf2b5d730c4288d9/hacker-man-hacker.gif?raw=true" alt="hacker-man">
   <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/4c5696632ef2130eac1cd14b0b3f3e82b9302f1e/coding.gif?raw=true" alt="coding">
