@@ -7,18 +7,6 @@
     </a>
   </h1>
   <br/>
-  
-<p align="center">
-  <h3>My Networks:</h3>
-  <div>
-		  <ul style="display: flex; justify-content: center;">
-        <li style="width: 7vw; list-style:none; height: 7vh;"><a href="#"><img src="img/facebook.png" alt="facebook"></a></li>
-        <li style="width: 7vw; list-style:none; height: 7vh;"><a href="#"><img src="img/youtube.png" alt="youtube"></a></li>
-        <li style="width: 7vw; list-style:none; height: 7vh;"><a href="#"><img src="img/linkedin.png" alt="linkedin"></a></li>
-        <li style="width: 7vw; list-style:none; height: 7vh;"><a href="#"><img src="img/instagram.png" alt="instagram"></a></li>
-      </ul>
-  </div>
-</p>
   <br>
   <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/bb8b0ba3462bc0760a496709cf2b5d730c4288d9/hacker-man-hacker.gif?raw=true" alt="hacker-man">
   <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/4c5696632ef2130eac1cd14b0b3f3e82b9302f1e/coding.gif?raw=true" alt="coding">
