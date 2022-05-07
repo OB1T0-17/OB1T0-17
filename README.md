@@ -1,3 +1,7 @@
+<head>
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body>
 <div align="center">
 <h1>
     Hello, Welcome to my profile !
@@ -9,6 +13,14 @@
   
 <p align="center">
   <h3>My Networks:</h3>
+  <div class="content">
+	<div class="social">
+		<a href="#"><img src="img/facebook.png" alt="facebook"></a>
+		<a href="#"><img src="img/youtube.png" alt="youtube"></a>
+		<a href="#"><img src="img/linkedin.png" alt="linkedin"></a>
+		<a href="#"><img src="img/instagram.png" alt="instagram"></a>
+	</div>
+  </div>
 </p>
   <br>
   <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/bb8b0ba3462bc0760a496709cf2b5d730c4288d9/hacker-man-hacker.gif?raw=true" alt="hacker-man">
@@ -35,3 +47,5 @@
         <h2>Follow me and like my repositories for more</h2>
         <img src="https://github.com/DeepSociety/DeepSociety/blob/main/thanks.gif?raw=true" alt="">
 </div>
+
+</body>

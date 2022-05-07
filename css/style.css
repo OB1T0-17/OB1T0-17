@@ -1,0 +1,11 @@
+.social a {
+    height:5vh;
+    width:5vw;
+    display:inline-block;
+}
+    
+.content {
+    width:100%;
+    
+    text-align:center;
+}
