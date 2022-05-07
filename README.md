@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-    𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> !
+    𝐇𝐞𝐥𝐥𝐨, Welcome to my profile !
   <a target="_blank">
       <img src="https://github.com/DeepSociety/DeepSociety/blob/main/hi.gif?raw=true" width="40">
     </a>
