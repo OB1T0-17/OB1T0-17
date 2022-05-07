@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-    𝐇𝐞𝐥𝐥𝐨, Welcome to my profile !
+    Hello, Welcome to my profile !
   <a target="_blank">
       <img src="https://github.com/DeepSociety/DeepSociety/blob/main/hi.gif?raw=true" width="40">
     </a>
@@ -14,7 +14,7 @@
 </p>
   <br>
   <img width="80%" src="https://github.com/DeepSociety/DeepSociety/blob/main/program.gif?raw=true" alt="">
-    <h2>I am a guy passionate about IT, freelance developer, backend and front end</h2>
+    <h2>I am a man apasionad for the ethical hacking</h2>
      <img src="https://github.com/DeepSociety/DeepSociety/blob/main/skills.jpg?raw=true" alt="">
   
   <h2>Github Stats : </h2>
