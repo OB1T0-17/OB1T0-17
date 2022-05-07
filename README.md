@@ -13,13 +13,13 @@
   
 <p align="center">
   <h3>My Networks:</h3>
-  <div class="content">
-	<div class="social">
-		<a href="#"><img src="img/facebook.png" alt="facebook"></a>
-		<a href="#"><img src="img/youtube.png" alt="youtube"></a>
-		<a href="#"><img src="img/linkedin.png" alt="linkedin"></a>
-		<a href="#"><img src="img/instagram.png" alt="instagram"></a>
-	</div>
+  <div>
+		  <ul style="display: flex; justify-content: center;">
+        <li style="width: 7vw; list-style:none; height: 7vh;"><a href="#"><img src="img/facebook.png" alt="facebook"></a></li>
+        <li style="width: 7vw; list-style:none; height: 7vh;"><a href="#"><img src="img/youtube.png" alt="youtube"></a></li>
+        <li style="width: 7vw; list-style:none; height: 7vh;"><a href="#"><img src="img/linkedin.png" alt="linkedin"></a></li>
+        <li style="width: 7vw; list-style:none; height: 7vh;"><a href="#"><img src="img/instagram.png" alt="instagram"></a></li>
+      </ul>
   </div>
 </p>
   <br>
