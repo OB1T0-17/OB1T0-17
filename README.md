@@ -8,7 +8,7 @@
   </h1>
 
 
-[![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://twitter.com/intent/follow?screen_name=charly3pins)
+[![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rojascastaneda893@gmail.com)
 ![Whatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -24,8 +24,7 @@
     <h4> Frameworks</h4>
     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/e554ddb2b8374452dfc0fb3bf7cd80007f892ef0/frameworks.png?raw=true" alt="frame">
     <h3> Back-end </h3>
-    
-    <img src="https://github.com/OB1T0-17/OB1T0-17/blob/238dd62a0623b5363d81db7dd0342da3f8104e73/backend.png" alt="back">
+    <img src="https://github.com/OB1T0-17/OB1T0-17/blob/ab3844f3e93c9d807920f9714652fd48c38da32d/backend.png" alt="back">
   <h2>Github Stats : </h2>
 
   <br>
