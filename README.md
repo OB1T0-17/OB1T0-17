@@ -18,7 +18,7 @@
   <br>
   <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/bb8b0ba3462bc0760a496709cf2b5d730c4288d9/hacker-man-hacker.gif?raw=true" alt="hacker-man">
   <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/4c5696632ef2130eac1cd14b0b3f3e82b9302f1e/coding.gif?raw=true" alt="coding">
-    <h2>I am a man apasionad for the ethical hacking and the Programing</h2>
+    <h2>I am a passionate boy for the ethical hacking and the Programing</h2>
     <h3> Front-End </h3>
      <img src="https://github.com/OB1T0-17/OB1T0-17/blob/ada59bf27e02380ca09b2af7a05f4f271505a5d2/front.png?raw=true" alt="front">
     <h4> Frameworks</h4>
@@ -28,8 +28,8 @@
   <h2>Github Stats : </h2>
 
   <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=DeepSociety&show_icons=true&theme=radical" alt="">
-      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepSociety&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=OB1T0-17&show_icons=true&theme=radical" alt="">
+      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmer-R&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 
   <br>
   <br>
