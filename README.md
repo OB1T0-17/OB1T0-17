@@ -24,8 +24,8 @@
     <h4> Frameworks</h4>
     <img src="https://github.com/OB1T0-17/OB1T0-17/blob/e554ddb2b8374452dfc0fb3bf7cd80007f892ef0/frameworks.png?raw=true" alt="frame">
     <h3> Back-end </h3>
-    <img src="https://github.com/OB1T0-17/OB1T0-17/blob/238dd62a0623b5363d81db7dd0342da3f8104e73/backend.png?raw=true" alt="back"
-
+    
+    <img src="https://github.com/OB1T0-17/OB1T0-17/blob/238dd62a0623b5363d81db7dd0342da3f8104e73/backend.png" alt="back">
   <h2>Github Stats : </h2>
 
   <br>
