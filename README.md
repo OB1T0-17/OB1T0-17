@@ -42,6 +42,11 @@
     <br/>
     <br/>
     <h2>🚀Skills in ethical hacking!</h2>
+    <h3>💻 Operating systems</h3>
+    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+    ![KL](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+    ![L](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     <br/>
     <br/>
   <h2>Github Stats : </h2>
