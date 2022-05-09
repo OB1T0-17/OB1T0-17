@@ -3,13 +3,14 @@
 <h1>
     Hello, Welcome to my profile !
 </h1>
-
-
+<h3>👨 My networks and profiles</h3>
+    
 ![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Whatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+51983055175)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![TT](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
     <br/>
   <br>
@@ -41,6 +42,10 @@
     ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
     <br/>
     <br/>
+    <h3>Terminal</h3>
+    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+    <br/>
+    <br/>
     <h2>🚀Skills in ethical hacking!</h2>
     <h3>💻 Operating systems</h3>
     ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -49,11 +54,19 @@
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     <br/>
     <br/>
-  <h2>Github Stats : </h2>
-
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=OB1T0-17&show_icons=true&theme=radical" alt="">
-      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OB1T0-17&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <h3>Terminal</h3>
+    ![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+    ![WT](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+    ![BT](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+    ![PS](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+    <br/>
+    <br/>
+    <h3>Github Stats : </h3>
+    ![F](https://github-readme-stats.vercel.app/api?username=OB1T0-17&theme=blue-green)
+    ![s](https://github-readme-stats.vercel.app/api/top-langs/?username=OB1T0-17&theme=blue-green)
+    <br/>
+    <br/>
+    
 
   <br>
   <br>
