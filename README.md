@@ -2,10 +2,7 @@
 <div align="center">
 <h1>
     Hello, Welcome to my profile !
-  <a target="_blank">
-      <img src="https://github.com/DeepSociety/DeepSociety/blob/main/hi.gif?raw=true" width="40">
-    </a>
-  </h1>
+</h1>
 
 
 ![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -33,7 +30,7 @@
 
   <br>
   <br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepSociety&repo=wiki-termux" alt="">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepSociety&repo=IP" alt="">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepSociety&repo=AIOPhish">
         <br>
         <h2>Follow me and like my repositories for more</h2>
