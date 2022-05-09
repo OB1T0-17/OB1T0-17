@@ -30,7 +30,7 @@
 
   <br>
   <br>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepSociety&repo=IP" alt="">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OB1T0-17&repo=INFO-IP" alt="">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepSociety&repo=AIOPhish">
         <br>
         <h2>Follow me and like my repositories for more</h2>
