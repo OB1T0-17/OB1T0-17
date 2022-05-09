@@ -15,8 +15,7 @@
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
     <br/>
   <br>
-  <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/bb8b0ba3462bc0760a496709cf2b5d730c4288d9/hacker-man-hacker.gif?raw=true" alt="hacker-man">
-  <img width="80%" src="https://github.com/OB1T0-17/OB1T0-17/blob/4c5696632ef2130eac1cd14b0b3f3e82b9302f1e/coding.gif?raw=true" alt="coding">
+  <img width="40%" src="https://github.com/OB1T0-17/OB1T0-17/blob/4c5696632ef2130eac1cd14b0b3f3e82b9302f1e/coding.gif?raw=true" alt="coding">
     <h2>I am a passionate boy for the ethical hacking and the Programing</h2>
     <br/>
     <h2>🚀Skills in Programming!</h2>
